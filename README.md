@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Deyasini</h1>
-<h3 align="center">A passionate AI/ML Enthusiast</h3>
+<h1 align="center">Hello! 👋, I'm Deyasini</h1>
+<h3 align="center">A passionate AI/ML Enthusiast, 2nd year AIML student</h3>
+
+![image alt](https://github.com/Deya16sini/Deya16sini/blob/1cf42bba624124bd6f606b5f38607115513f3a89/download.jpeg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deya16sini&label=Profile%20views&color=0e75b6&style=flat" alt="deya16sini" /> </p>
 
