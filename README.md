@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Developer;Learner;Explorer" />
 </p>
 
+<p align="center">
+  <img src="download.jpeg" width="350"/>
+</p>
 ---
 
 ## 🌸 About Me
