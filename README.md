@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Deyasini</h1>
 <h3 align="center">✨ AI/ML Enthusiast | 3rd Year AIML Student | Developer ✨</h3>
 
@@ -78,4 +77,3 @@
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
-```
