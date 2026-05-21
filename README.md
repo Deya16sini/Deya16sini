@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deya16sini&label=Profile%20views&color=0e75b6&style=flat" alt="deya16sini" /> </p>
 
-- 🔭 I’m currently working on **House Price Prediction**
+- 🔭 I’m currently working on **Canteen Management System **
 
-- 🌱 I’m currently learning **DBMS**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Machine Learning, Python**
+- 💬 Ask me about **Machine Learning, Python, JAVA, JS, HTML, CSS, Flutter, AWS**
 
 - 📫 How to reach me **deyasinipurkait@gmail.com**
 
