@@ -2,7 +2,7 @@
 <h3 align="center">✨ AI/ML Enthusiast | 3rd Year AIML Student | Developer ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Flutter+Developer;AWS+Learner;Open+Source+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Developer;Learner;Explorer" />
 </p>
 
 ---
