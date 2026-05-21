@@ -46,24 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deya16sini&show_icons=true&theme=radical&cache_seconds=1800" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deya16sini&layout=compact&theme=radical&cache_seconds=1800" height="180em"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deya16sini&theme=radical" />
-</p>
-
----
-
 ## ✨ Visitor Count
 
 <p align="center">
