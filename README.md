@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deya16sini&label=Profile%20views&color=0e75b6&style=flat" alt="deya16sini" /> </p>
 
-- 🔭 I’m currently working on **Canteen Management System **
+- 🔭 I’m currently working on **Canteen Management System**
 
 - 🌱 I’m currently learning **DSA**
 
